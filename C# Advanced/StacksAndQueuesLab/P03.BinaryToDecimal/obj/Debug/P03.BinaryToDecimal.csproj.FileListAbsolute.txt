@@ -1,0 +1,6 @@
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P03.BinaryToDecimal\bin\Debug\P03.BinaryToDecimal.exe.config
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P03.BinaryToDecimal\bin\Debug\P03.BinaryToDecimal.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P03.BinaryToDecimal\bin\Debug\P03.BinaryToDecimal.pdb
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P03.BinaryToDecimal\obj\Debug\P03.BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P03.BinaryToDecimal\obj\Debug\P03.BinaryToDecimal.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P03.BinaryToDecimal\obj\Debug\P03.BinaryToDecimal.pdb

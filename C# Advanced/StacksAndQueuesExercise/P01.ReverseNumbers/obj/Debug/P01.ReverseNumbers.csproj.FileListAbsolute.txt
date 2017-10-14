@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P01.ReverseNumbers\bin\Debug\P01.ReverseNumbers.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P01.ReverseNumbers\bin\Debug\P01.ReverseNumbers.exe
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P01.ReverseNumbers\bin\Debug\P01.ReverseNumbers.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P01.ReverseNumbers\obj\Debug\P01.ReverseNumbers.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P01.ReverseNumbers\obj\Debug\P01.ReverseNumbers.exe
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P01.ReverseNumbers\obj\Debug\P01.ReverseNumbers.pdb

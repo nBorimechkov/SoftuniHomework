@@ -1,0 +1,6 @@
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P04.Brackets\bin\Debug\P04.Brackets.exe.config
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P04.Brackets\bin\Debug\P04.Brackets.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P04.Brackets\bin\Debug\P04.Brackets.pdb
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P04.Brackets\obj\Debug\P04.Brackets.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P04.Brackets\obj\Debug\P04.Brackets.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesLab\P04.Brackets\obj\Debug\P04.Brackets.pdb

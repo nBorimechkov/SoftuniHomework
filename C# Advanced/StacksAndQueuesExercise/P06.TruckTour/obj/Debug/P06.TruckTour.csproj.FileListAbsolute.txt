@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P06.TruckTour\bin\Debug\P06.TruckTour.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P06.TruckTour\bin\Debug\P06.TruckTour.exe
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P06.TruckTour\bin\Debug\P06.TruckTour.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P06.TruckTour\obj\Debug\P06.TruckTour.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P06.TruckTour\obj\Debug\P06.TruckTour.exe
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P06.TruckTour\obj\Debug\P06.TruckTour.pdb

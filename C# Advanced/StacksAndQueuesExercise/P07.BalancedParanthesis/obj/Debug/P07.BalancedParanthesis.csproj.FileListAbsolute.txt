@@ -1,0 +1,1 @@
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P07.BalancedParanthesis\bin\Debug\P07.BalancedParanthesis.exe.config

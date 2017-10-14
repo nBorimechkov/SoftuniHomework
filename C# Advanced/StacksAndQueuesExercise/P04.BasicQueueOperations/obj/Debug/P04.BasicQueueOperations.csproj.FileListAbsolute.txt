@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P04.BasicQueueOperations\bin\Debug\P04.BasicQueueOperations.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P04.BasicQueueOperations\bin\Debug\P04.BasicQueueOperations.exe
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P04.BasicQueueOperations\bin\Debug\P04.BasicQueueOperations.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P04.BasicQueueOperations\obj\Debug\P04.BasicQueueOperations.exe
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P04.BasicQueueOperations\obj\Debug\P04.BasicQueueOperations.pdb

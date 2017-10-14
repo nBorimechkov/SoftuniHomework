@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P03.MaximumElement\bin\Debug\P03.MaximumElement.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P03.MaximumElement\bin\Debug\P03.MaximumElement.exe
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P03.MaximumElement\bin\Debug\P03.MaximumElement.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P03.MaximumElement\obj\Debug\P03.MaximumElement.exe
+c:\users\basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P03.MaximumElement\obj\Debug\P03.MaximumElement.pdb

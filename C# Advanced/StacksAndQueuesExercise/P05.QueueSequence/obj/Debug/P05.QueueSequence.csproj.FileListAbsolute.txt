@@ -1,0 +1,6 @@
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P05.QueueSequence\bin\Debug\P05.QueueSequence.exe.config
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P05.QueueSequence\bin\Debug\P05.QueueSequence.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P05.QueueSequence\bin\Debug\P05.QueueSequence.pdb
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P05.QueueSequence\obj\Debug\P05.QueueSequence.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P05.QueueSequence\obj\Debug\P05.QueueSequence.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\StacksAndQueuesExercise\P05.QueueSequence\obj\Debug\P05.QueueSequence.pdb
