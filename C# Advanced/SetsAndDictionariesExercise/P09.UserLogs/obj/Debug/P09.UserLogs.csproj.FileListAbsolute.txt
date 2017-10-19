@@ -1,0 +1,6 @@
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\SetsAndDictionariesExercise\P09.UserLogs\bin\Debug\P09.UserLogs.exe.config
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\SetsAndDictionariesExercise\P09.UserLogs\bin\Debug\P09.UserLogs.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\SetsAndDictionariesExercise\P09.UserLogs\bin\Debug\P09.UserLogs.pdb
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\SetsAndDictionariesExercise\P09.UserLogs\obj\Debug\P09.UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\SetsAndDictionariesExercise\P09.UserLogs\obj\Debug\P09.UserLogs.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\SetsAndDictionariesExercise\P09.UserLogs\obj\Debug\P09.UserLogs.pdb

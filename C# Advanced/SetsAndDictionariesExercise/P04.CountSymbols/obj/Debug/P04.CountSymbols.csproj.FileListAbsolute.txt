@@ -1,0 +1,9 @@
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P04.CountSymbols\bin\Debug\P04.CountSymbols.exe.config
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P04.CountSymbols\bin\Debug\P04.CountSymbols.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P04.CountSymbols\bin\Debug\P04.CountSymbols.pdb
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P04.CountSymbols\obj\Debug\P04.CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P04.CountSymbols\obj\Debug\P04.CountSymbols.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P04.CountSymbols\obj\Debug\P04.CountSymbols.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P04.CountSymbols\bin\Debug\P04.CountSymbols.exe.config
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P04.CountSymbols\obj\Debug\P04.CountSymbols.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P04.CountSymbols\obj\Debug\P04.CountSymbols.pdb

@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P02.Party\bin\Debug\P02.Party.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P02.Party\bin\Debug\P02.Party.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P02.Party\bin\Debug\P02.Party.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P02.Party\obj\Debug\P02.Party.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P02.Party\obj\Debug\P02.Party.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P02.Party\obj\Debug\P02.Party.pdb

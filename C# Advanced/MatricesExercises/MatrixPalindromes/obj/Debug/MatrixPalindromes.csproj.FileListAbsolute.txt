@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\MatrixPalindromes\bin\Debug\MatrixPalindromes.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\MatrixPalindromes\bin\Debug\MatrixPalindromes.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\MatrixPalindromes\bin\Debug\MatrixPalindromes.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\MatrixPalindromes\obj\Debug\MatrixPalindromes.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\MatrixPalindromes\obj\Debug\MatrixPalindromes.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\MatrixPalindromes\obj\Debug\MatrixPalindromes.pdb

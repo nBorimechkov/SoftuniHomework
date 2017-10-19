@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P07.LegoBlocks\bin\Debug\P07.LegoBlocks.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P07.LegoBlocks\obj\Debug\P07.LegoBlocks.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P07.LegoBlocks\bin\Debug\P07.LegoBlocks.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P07.LegoBlocks\bin\Debug\P07.LegoBlocks.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P07.LegoBlocks\obj\Debug\P07.LegoBlocks.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P07.LegoBlocks\obj\Debug\P07.LegoBlocks.pdb

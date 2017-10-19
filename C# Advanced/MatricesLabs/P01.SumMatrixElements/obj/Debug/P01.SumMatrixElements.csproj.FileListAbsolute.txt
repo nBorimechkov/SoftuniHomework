@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P01.SumMatrixElements\bin\Debug\P01.SumMatrixElements.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P01.SumMatrixElements\bin\Debug\P01.SumMatrixElements.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P01.SumMatrixElements\bin\Debug\P01.SumMatrixElements.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P01.SumMatrixElements\obj\Debug\P01.SumMatrixElements.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P01.SumMatrixElements\obj\Debug\P01.SumMatrixElements.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P01.SumMatrixElements\obj\Debug\P01.SumMatrixElements.pdb

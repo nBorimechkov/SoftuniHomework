@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P06.TargetPractice\bin\Debug\P06.TargetPractice.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P06.TargetPractice\bin\Debug\P06.TargetPractice.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P06.TargetPractice\bin\Debug\P06.TargetPractice.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P06.TargetPractice\obj\Debug\P06.TargetPractice.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P06.TargetPractice\obj\Debug\P06.TargetPractice.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P06.TargetPractice\obj\Debug\P06.TargetPractice.pdb

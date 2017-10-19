@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P04.Triangle\bin\Debug\P04.Triangle.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P04.Triangle\bin\Debug\P04.Triangle.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P04.Triangle\bin\Debug\P04.Triangle.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P04.Triangle\obj\Debug\P04.Triangle.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P04.Triangle\obj\Debug\P04.Triangle.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P04.Triangle\obj\Debug\P04.Triangle.pdb

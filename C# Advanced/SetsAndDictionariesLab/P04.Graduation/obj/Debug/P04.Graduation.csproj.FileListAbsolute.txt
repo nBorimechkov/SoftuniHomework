@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P04.Graduation\bin\Debug\P04.Graduation.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P04.Graduation\bin\Debug\P04.Graduation.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P04.Graduation\bin\Debug\P04.Graduation.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P04.Graduation\obj\Debug\P04.Graduation.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P04.Graduation\obj\Debug\P04.Graduation.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P04.Graduation\obj\Debug\P04.Graduation.pdb

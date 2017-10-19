@@ -1,0 +1,12 @@
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P06.Miner\bin\Debug\P06.Miner.exe.config
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P06.Miner\bin\Debug\P06.Miner.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P06.Miner\bin\Debug\P06.Miner.pdb
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P06.Miner\obj\Debug\P06.Miner.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P06.Miner\obj\Debug\P06.Miner.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P06.Miner\obj\Debug\P06.Miner.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P06.Miner\bin\Debug\P06.Miner.exe.config
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P06.Miner\obj\Debug\P06.Miner.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P06.Miner\obj\Debug\P06.Miner.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P06.Miner\bin\Debug\P06.Miner.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P06.Miner\bin\Debug\P06.Miner.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P06.Miner\obj\Debug\P06.Miner.csprojResolveAssemblyReference.cache

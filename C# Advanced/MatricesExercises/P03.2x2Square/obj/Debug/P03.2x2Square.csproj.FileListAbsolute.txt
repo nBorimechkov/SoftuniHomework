@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P03.2x2Square\bin\Debug\P03.2x2Square.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P03.2x2Square\bin\Debug\P03.2x2Square.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P03.2x2Square\bin\Debug\P03.2x2Square.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P03.2x2Square\obj\Debug\P03.2x2Square.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P03.2x2Square\obj\Debug\P03.2x2Square.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P03.2x2Square\obj\Debug\P03.2x2Square.pdb

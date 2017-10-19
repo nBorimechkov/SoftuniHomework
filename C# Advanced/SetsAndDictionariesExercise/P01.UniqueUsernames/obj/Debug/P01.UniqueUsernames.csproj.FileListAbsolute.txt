@@ -1,0 +1,8 @@
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P01.UniqueUsernames\bin\Debug\P01.UniqueUsernames.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P01.UniqueUsernames\bin\Debug\P01.UniqueUsernames.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P01.UniqueUsernames\bin\Debug\P01.UniqueUsernames.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P01.UniqueUsernames\obj\Debug\P01.UniqueUsernames.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P01.UniqueUsernames\obj\Debug\P01.UniqueUsernames.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P01.UniqueUsernames\bin\Debug\P01.UniqueUsernames.exe.config
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P01.UniqueUsernames\obj\Debug\P01.UniqueUsernames.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P01.UniqueUsernames\obj\Debug\P01.UniqueUsernames.pdb

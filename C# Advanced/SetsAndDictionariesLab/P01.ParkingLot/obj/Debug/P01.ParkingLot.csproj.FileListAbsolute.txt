@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P01.ParkingLot\bin\Debug\P01.ParkingLot.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P01.ParkingLot\bin\Debug\P01.ParkingLot.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P01.ParkingLot\bin\Debug\P01.ParkingLot.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P01.ParkingLot\obj\Debug\P01.ParkingLot.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P01.ParkingLot\obj\Debug\P01.ParkingLot.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P01.ParkingLot\obj\Debug\P01.ParkingLot.pdb

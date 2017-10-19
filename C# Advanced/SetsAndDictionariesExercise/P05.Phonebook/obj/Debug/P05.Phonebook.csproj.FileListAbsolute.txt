@@ -1,0 +1,11 @@
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P05.Phonebook\bin\Debug\P05.Phonebook.exe.config
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P05.Phonebook\bin\Debug\P05.Phonebook.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P05.Phonebook\bin\Debug\P05.Phonebook.pdb
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P05.Phonebook\obj\Debug\P05.Phonebook.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P05.Phonebook\obj\Debug\P05.Phonebook.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P05.Phonebook\bin\Debug\P05.Phonebook.exe.config
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P05.Phonebook\obj\Debug\P05.Phonebook.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P05.Phonebook\obj\Debug\P05.Phonebook.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P05.Phonebook\bin\Debug\P05.Phonebook.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P05.Phonebook\bin\Debug\P05.Phonebook.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P05.Phonebook\obj\Debug\P05.Phonebook.csprojResolveAssemblyReference.cache

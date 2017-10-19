@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P05.RubiksMatrix\bin\Debug\P05.RubiksMatrix.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P05.RubiksMatrix\bin\Debug\P05.RubiksMatrix.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P05.RubiksMatrix\bin\Debug\P05.RubiksMatrix.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P05.RubiksMatrix\obj\Debug\P05.RubiksMatrix.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P05.RubiksMatrix\obj\Debug\P05.RubiksMatrix.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P05.RubiksMatrix\obj\Debug\P05.RubiksMatrix.pdb

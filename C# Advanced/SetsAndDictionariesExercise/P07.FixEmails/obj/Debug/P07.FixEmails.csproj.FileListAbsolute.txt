@@ -1,0 +1,10 @@
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P07.FixEmails\bin\Debug\P07.FixEmails.exe.config
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P07.FixEmails\bin\Debug\P07.FixEmails.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P07.FixEmails\bin\Debug\P07.FixEmails.pdb
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P07.FixEmails\obj\Debug\P07.FixEmails.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P07.FixEmails\obj\Debug\P07.FixEmails.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P07.FixEmails\bin\Debug\P07.FixEmails.exe.config
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P07.FixEmails\obj\Debug\P07.FixEmails.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P07.FixEmails\obj\Debug\P07.FixEmails.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P07.FixEmails\bin\Debug\P07.FixEmails.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P07.FixEmails\bin\Debug\P07.FixEmails.pdb

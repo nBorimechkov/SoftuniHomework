@@ -1,0 +1,11 @@
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P03.PeriodicTable\bin\Debug\P03.PeriodicTable.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P03.PeriodicTable\bin\Debug\P03.PeriodicTable.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P03.PeriodicTable\bin\Debug\P03.PeriodicTable.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P03.PeriodicTable\obj\Debug\P03.PeriodicTable.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsExercise\P03.PeriodicTable\obj\Debug\P03.PeriodicTable.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P03.PeriodicTable\bin\Debug\P03.PeriodicTable.exe.config
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P03.PeriodicTable\obj\Debug\P03.PeriodicTable.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P03.PeriodicTable\obj\Debug\P03.PeriodicTable.pdb
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P03.PeriodicTable\obj\Debug\P03.PeriodicTable.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P03.PeriodicTable\bin\Debug\P03.PeriodicTable.exe
+C:\Users\Basedd\Documents\visual studio 2015\Projects\SetsAndDictionariesExercise\P03.PeriodicTable\bin\Debug\P03.PeriodicTable.pdb

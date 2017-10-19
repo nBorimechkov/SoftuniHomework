@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P04.Maximum3x3Sum\bin\Debug\P04.Maximum3x3Sum.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P04.Maximum3x3Sum\bin\Debug\P04.Maximum3x3Sum.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P04.Maximum3x3Sum\bin\Debug\P04.Maximum3x3Sum.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P04.Maximum3x3Sum\obj\Debug\P04.Maximum3x3Sum.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P04.Maximum3x3Sum\obj\Debug\P04.Maximum3x3Sum.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatrixExercises\P04.Maximum3x3Sum\obj\Debug\P04.Maximum3x3Sum.pdb

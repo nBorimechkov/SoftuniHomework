@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P03.CountValues\bin\Debug\P03.CountValues.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P03.CountValues\bin\Debug\P03.CountValues.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P03.CountValues\bin\Debug\P03.CountValues.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P03.CountValues\obj\Debug\P03.CountValues.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P03.CountValues\obj\Debug\P03.CountValues.exe
+c:\users\basedd\documents\visual studio 2015\Projects\SetsAndDicsLab\P03.CountValues\obj\Debug\P03.CountValues.pdb

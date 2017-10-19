@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P02.MaxSum\bin\Debug\P02.MaxSum.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P02.MaxSum\bin\Debug\P02.MaxSum.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P02.MaxSum\bin\Debug\P02.MaxSum.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P02.MaxSum\obj\Debug\P02.MaxSum.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P02.MaxSum\obj\Debug\P02.MaxSum.exe
+c:\users\basedd\documents\visual studio 2015\Projects\MatricesLabs\P02.MaxSum\obj\Debug\P02.MaxSum.pdb
