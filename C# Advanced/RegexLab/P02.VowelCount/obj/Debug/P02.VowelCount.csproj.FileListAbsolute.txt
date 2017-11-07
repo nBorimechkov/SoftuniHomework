@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P02.VowelCount\bin\Debug\P02.VowelCount.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P02.VowelCount\bin\Debug\P02.VowelCount.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P02.VowelCount\bin\Debug\P02.VowelCount.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P02.VowelCount\obj\Debug\P02.VowelCount.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P02.VowelCount\obj\Debug\P02.VowelCount.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P02.VowelCount\obj\Debug\P02.VowelCount.pdb

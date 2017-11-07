@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P04.Base10toBaseN\bin\Debug\P04.Base10toBaseN.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P04.Base10toBaseN\bin\Debug\P04.Base10toBaseN.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P04.Base10toBaseN\bin\Debug\P04.Base10toBaseN.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P04.Base10toBaseN\obj\Debug\P04.Base10toBaseN.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P04.Base10toBaseN\obj\Debug\P04.Base10toBaseN.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P04.Base10toBaseN\obj\Debug\P04.Base10toBaseN.pdb

@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingLab\P01.StudentResults\bin\Debug\P01.StudentResults.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingLab\P01.StudentResults\bin\Debug\P01.StudentResults.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingLab\P01.StudentResults\bin\Debug\P01.StudentResults.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingLab\P01.StudentResults\obj\Debug\P01.StudentResults.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingLab\P01.StudentResults\obj\Debug\P01.StudentResults.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingLab\P01.StudentResults\obj\Debug\P01.StudentResults.pdb

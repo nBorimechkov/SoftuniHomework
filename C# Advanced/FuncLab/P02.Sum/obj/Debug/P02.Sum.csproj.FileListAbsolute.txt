@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P02.Sum\bin\Debug\P02.Sum.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P02.Sum\bin\Debug\P02.Sum.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P02.Sum\bin\Debug\P02.Sum.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P02.Sum\obj\Debug\P02.Sum.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P02.Sum\obj\Debug\P02.Sum.pdb

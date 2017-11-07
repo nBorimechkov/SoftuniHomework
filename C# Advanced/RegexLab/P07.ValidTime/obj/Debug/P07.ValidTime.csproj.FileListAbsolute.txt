@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P07.ValidTime\bin\Debug\P07.ValidTime.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P07.ValidTime\bin\Debug\P07.ValidTime.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P07.ValidTime\bin\Debug\P07.ValidTime.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P07.ValidTime\obj\Debug\P07.ValidTime.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P07.ValidTime\obj\Debug\P07.ValidTime.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P07.ValidTime\obj\Debug\P07.ValidTime.pdb

@@ -1,0 +1,6 @@
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P02.ParseURL\bin\Debug\P02.ParseURL.exe.config
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P02.ParseURL\bin\Debug\P02.ParseURL.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P02.ParseURL\bin\Debug\P02.ParseURL.pdb
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P02.ParseURL\obj\Debug\P02.ParseURL.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P02.ParseURL\obj\Debug\P02.ParseURL.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P02.ParseURL\obj\Debug\P02.ParseURL.pdb

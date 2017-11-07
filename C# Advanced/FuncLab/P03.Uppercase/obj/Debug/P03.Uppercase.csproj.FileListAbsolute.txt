@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P03.Uppercase\bin\Debug\P03.Uppercase.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P03.Uppercase\bin\Debug\P03.Uppercase.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P03.Uppercase\bin\Debug\P03.Uppercase.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P03.Uppercase\obj\Debug\P03.Uppercase.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P03.Uppercase\obj\Debug\P03.Uppercase.pdb

@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P04.VAT\bin\Debug\P04.VAT.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P04.VAT\bin\Debug\P04.VAT.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P04.VAT\bin\Debug\P04.VAT.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P04.VAT\obj\Debug\P04.VAT.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P04.VAT\obj\Debug\P04.VAT.pdb

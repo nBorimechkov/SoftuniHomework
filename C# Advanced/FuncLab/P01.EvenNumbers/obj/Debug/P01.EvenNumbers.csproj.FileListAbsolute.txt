@@ -1,0 +1,1 @@
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P01.EvenNumbers\bin\Debug\P01.EvenNumbers.exe.config

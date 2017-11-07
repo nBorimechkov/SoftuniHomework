@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P12.CharacterMultiplier\bin\Debug\P12.CharacterMultiplier.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P12.CharacterMultiplier\bin\Debug\P12.CharacterMultiplier.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P12.CharacterMultiplier\bin\Debug\P12.CharacterMultiplier.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P12.CharacterMultiplier\obj\Debug\P12.CharacterMultiplier.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P12.CharacterMultiplier\obj\Debug\P12.CharacterMultiplier.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P12.CharacterMultiplier\obj\Debug\P12.CharacterMultiplier.pdb

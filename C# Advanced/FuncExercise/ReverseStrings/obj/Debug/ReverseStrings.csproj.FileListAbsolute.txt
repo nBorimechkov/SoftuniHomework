@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\ReverseStrings\bin\Debug\ReverseStrings.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\ReverseStrings\bin\Debug\ReverseStrings.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\ReverseStrings\bin\Debug\ReverseStrings.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\ReverseStrings\obj\Debug\ReverseStrings.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\ReverseStrings\obj\Debug\ReverseStrings.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\ReverseStrings\obj\Debug\ReverseStrings.pdb

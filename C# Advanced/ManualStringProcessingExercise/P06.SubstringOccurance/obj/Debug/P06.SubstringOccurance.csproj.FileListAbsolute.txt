@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P06.SubstringOccurance\bin\Debug\P06.SubstringOccurance.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P06.SubstringOccurance\bin\Debug\P06.SubstringOccurance.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P06.SubstringOccurance\bin\Debug\P06.SubstringOccurance.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P06.SubstringOccurance\obj\Debug\P06.SubstringOccurance.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P06.SubstringOccurance\obj\Debug\P06.SubstringOccurance.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P06.SubstringOccurance\obj\Debug\P06.SubstringOccurance.pdb

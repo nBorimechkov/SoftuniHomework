@@ -1,0 +1,5 @@
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P05.MinEvenNumber\bin\Debug\P05.MinEvenNumber.exe.config
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P05.MinEvenNumber\bin\Debug\P05.MinEvenNumber.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P05.MinEvenNumber\bin\Debug\P05.MinEvenNumber.pdb
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P05.MinEvenNumber\obj\Debug\P05.MinEvenNumber.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P05.MinEvenNumber\obj\Debug\P05.MinEvenNumber.pdb

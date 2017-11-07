@@ -1,0 +1,6 @@
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P04.AverageOfDoubles\bin\Debug\P04.AverageOfDoubles.exe.config
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P04.AverageOfDoubles\bin\Debug\P04.AverageOfDoubles.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P04.AverageOfDoubles\bin\Debug\P04.AverageOfDoubles.pdb
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P04.AverageOfDoubles\obj\Debug\P04.AverageOfDoubles.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P04.AverageOfDoubles\obj\Debug\P04.AverageOfDoubles.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\LINQLab\P04.AverageOfDoubles\obj\Debug\P04.AverageOfDoubles.pdb

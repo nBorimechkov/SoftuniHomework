@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P05.ExtractTags\bin\Debug\P05.ExtractTags.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P05.ExtractTags\bin\Debug\P05.ExtractTags.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P05.ExtractTags\bin\Debug\P05.ExtractTags.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P05.ExtractTags\obj\Debug\P05.ExtractTags.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P05.ExtractTags\obj\Debug\P05.ExtractTags.pdb

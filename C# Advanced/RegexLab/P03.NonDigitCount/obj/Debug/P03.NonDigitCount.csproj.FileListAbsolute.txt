@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P03.NonDigitCount\bin\Debug\P03.NonDigitCount.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P03.NonDigitCount\bin\Debug\P03.NonDigitCount.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P03.NonDigitCount\bin\Debug\P03.NonDigitCount.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P03.NonDigitCount\obj\Debug\P03.NonDigitCount.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P03.NonDigitCount\obj\Debug\P03.NonDigitCount.pdb

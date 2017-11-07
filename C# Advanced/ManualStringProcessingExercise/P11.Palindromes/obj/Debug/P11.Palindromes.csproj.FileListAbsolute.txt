@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P11.Palindromes\bin\Debug\P11.Palindromes.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P11.Palindromes\bin\Debug\P11.Palindromes.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P11.Palindromes\bin\Debug\P11.Palindromes.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P11.Palindromes\obj\Debug\P11.Palindromes.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P11.Palindromes\obj\Debug\P11.Palindromes.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P11.Palindromes\obj\Debug\P11.Palindromes.pdb

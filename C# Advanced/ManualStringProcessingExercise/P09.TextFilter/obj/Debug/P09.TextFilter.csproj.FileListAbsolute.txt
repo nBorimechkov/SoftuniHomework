@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P09.TextFilter\bin\Debug\P09.TextFilter.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P09.TextFilter\bin\Debug\P09.TextFilter.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P09.TextFilter\bin\Debug\P09.TextFilter.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P09.TextFilter\obj\Debug\P09.TextFilter.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P09.TextFilter\obj\Debug\P09.TextFilter.pdb

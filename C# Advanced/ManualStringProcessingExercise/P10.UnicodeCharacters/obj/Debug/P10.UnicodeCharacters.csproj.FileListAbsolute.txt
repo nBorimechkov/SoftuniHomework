@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P10.UnicodeCharacters\bin\Debug\P10.UnicodeCharacters.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P10.UnicodeCharacters\bin\Debug\P10.UnicodeCharacters.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P10.UnicodeCharacters\bin\Debug\P10.UnicodeCharacters.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P10.UnicodeCharacters\obj\Debug\P10.UnicodeCharacters.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P10.UnicodeCharacters\obj\Debug\P10.UnicodeCharacters.pdb

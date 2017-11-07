@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P06.ValidUsernames\bin\Debug\P06.ValidUsernames.exe.config
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\RegexLab\P06.ValidUsernames\bin\Debug\P06.ValidUsernames.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\RegexLab\P06.ValidUsernames\bin\Debug\P06.ValidUsernames.pdb
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\RegexLab\P06.ValidUsernames\obj\Debug\P06.ValidUsernames.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\RegexLab\P06.ValidUsernames\obj\Debug\P06.ValidUsernames.pdb

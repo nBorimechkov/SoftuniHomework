@@ -1,0 +1,6 @@
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P03.ParseTags\bin\Debug\P03.ParseTags.exe.config
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P03.ParseTags\bin\Debug\P03.ParseTags.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P03.ParseTags\bin\Debug\P03.ParseTags.pdb
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P03.ParseTags\obj\Debug\P03.ParseTags.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P03.ParseTags\obj\Debug\P03.ParseTags.pdb
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P03.ParseTags\obj\Debug\P03.ParseTags.csprojResolveAssemblyReference.cache

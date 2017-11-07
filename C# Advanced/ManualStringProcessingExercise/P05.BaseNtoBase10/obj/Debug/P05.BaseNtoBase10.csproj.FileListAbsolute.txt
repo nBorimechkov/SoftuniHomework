@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P05.BaseNtoBase10\bin\Debug\P05.BaseNtoBase10.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P05.BaseNtoBase10\bin\Debug\P05.BaseNtoBase10.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P05.BaseNtoBase10\bin\Debug\P05.BaseNtoBase10.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P05.BaseNtoBase10\obj\Debug\P05.BaseNtoBase10.exe
+c:\users\basedd\documents\visual studio 2015\Projects\ManualStringProcessingExercise\P05.BaseNtoBase10\obj\Debug\P05.BaseNtoBase10.pdb

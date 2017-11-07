@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\LINQLab\P03.FirstName\bin\Debug\P03.FirstName.exe.config
+C:\Users\Basedd\documents\visual studio 2015\Projects\LINQLab\P03.FirstName\bin\Debug\P03.FirstName.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\LINQLab\P03.FirstName\bin\Debug\P03.FirstName.pdb
+C:\Users\Basedd\documents\visual studio 2015\Projects\LINQLab\P03.FirstName\obj\Debug\P03.FirstName.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\documents\visual studio 2015\Projects\LINQLab\P03.FirstName\obj\Debug\P03.FirstName.exe
+C:\Users\Basedd\documents\visual studio 2015\Projects\LINQLab\P03.FirstName\obj\Debug\P03.FirstName.pdb

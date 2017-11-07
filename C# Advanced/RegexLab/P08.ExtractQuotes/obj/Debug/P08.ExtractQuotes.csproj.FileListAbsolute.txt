@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P08.ExtractQuotes\bin\Debug\P08.ExtractQuotes.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P08.ExtractQuotes\bin\Debug\P08.ExtractQuotes.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P08.ExtractQuotes\bin\Debug\P08.ExtractQuotes.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P08.ExtractQuotes\obj\Debug\P08.ExtractQuotes.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P08.ExtractQuotes\obj\Debug\P08.ExtractQuotes.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P08.ExtractQuotes\obj\Debug\P08.ExtractQuotes.pdb

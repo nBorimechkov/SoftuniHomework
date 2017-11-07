@@ -1,0 +1,6 @@
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P05.StringBuilder\bin\Debug\P05.StringBuilder.exe.config
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P05.StringBuilder\bin\Debug\P05.StringBuilder.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P05.StringBuilder\bin\Debug\P05.StringBuilder.pdb
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P05.StringBuilder\obj\Debug\P05.ConcatStrings.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P05.StringBuilder\obj\Debug\P05.StringBuilder.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P05.StringBuilder\obj\Debug\P05.StringBuilder.pdb

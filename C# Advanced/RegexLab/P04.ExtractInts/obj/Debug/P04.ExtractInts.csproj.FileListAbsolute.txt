@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P04.ExtractInts\bin\Debug\P04.ExtractInts.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P04.ExtractInts\bin\Debug\P04.ExtractInts.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P04.ExtractInts\bin\Debug\P04.ExtractInts.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P04.ExtractInts\obj\Debug\P04.ExtractInts.exe
+c:\users\basedd\documents\visual studio 2015\Projects\RegexLab\P04.ExtractInts\obj\Debug\P04.ExtractInts.pdb

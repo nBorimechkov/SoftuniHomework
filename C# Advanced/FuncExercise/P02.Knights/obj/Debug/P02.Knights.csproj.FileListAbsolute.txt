@@ -1,0 +1,5 @@
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\P02.Knights\bin\Debug\P02.Knights.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\P02.Knights\bin\Debug\P02.Knights.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\P02.Knights\bin\Debug\P02.Knights.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\P02.Knights\obj\Debug\P02.Knights.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncExercise\P02.Knights\obj\Debug\P02.Knights.pdb

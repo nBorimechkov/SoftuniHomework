@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P01.EvenNumebrs\bin\Debug\P01.EvenNumebrs.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P01.EvenNumebrs\bin\Debug\P01.EvenNumebrs.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P01.EvenNumebrs\bin\Debug\P01.EvenNumebrs.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P01.EvenNumebrs\obj\Debug\P01.EvenNumebrs.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P01.EvenNumebrs\obj\Debug\P01.EvenNumebrs.exe
+c:\users\basedd\documents\visual studio 2015\Projects\FuncLab\P01.EvenNumebrs\obj\Debug\P01.EvenNumebrs.pdb

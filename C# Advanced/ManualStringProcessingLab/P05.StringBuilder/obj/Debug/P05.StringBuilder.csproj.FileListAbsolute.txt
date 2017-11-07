@@ -1,0 +1,1 @@
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\ManualStringProcessingLab\P05.StringBuilder\bin\Debug\P05.StringBuilder.exe.config
