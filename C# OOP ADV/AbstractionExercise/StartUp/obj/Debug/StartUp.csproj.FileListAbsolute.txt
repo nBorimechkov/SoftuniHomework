@@ -1,0 +1,9 @@
+c:\users\basedd\documents\visual studio 2015\Projects\AbstractionExercise\StartUp\bin\Debug\StartUp.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\AbstractionExercise\StartUp\bin\Debug\StartUp.exe
+c:\users\basedd\documents\visual studio 2015\Projects\AbstractionExercise\StartUp\bin\Debug\StartUp.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\AbstractionExercise\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\AbstractionExercise\StartUp\obj\Debug\StartUp.exe
+c:\users\basedd\documents\visual studio 2015\Projects\AbstractionExercise\StartUp\obj\Debug\StartUp.pdb
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\C# OOP ADV\AbstractionExercise\StartUp\bin\Debug\StartUp.exe.config
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\C# OOP ADV\AbstractionExercise\StartUp\obj\Debug\StartUp.exe
+C:\Users\Basedd\Documents\Visual Studio 2015\Projects\C# OOP ADV\AbstractionExercise\StartUp\obj\Debug\StartUp.pdb

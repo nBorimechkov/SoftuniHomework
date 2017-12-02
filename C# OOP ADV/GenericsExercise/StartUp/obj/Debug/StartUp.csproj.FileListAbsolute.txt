@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\bin\Debug\StartUp.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\bin\Debug\StartUp.exe
+c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\bin\Debug\StartUp.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\obj\Debug\StartUp.exe
+c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\obj\Debug\StartUp.pdb

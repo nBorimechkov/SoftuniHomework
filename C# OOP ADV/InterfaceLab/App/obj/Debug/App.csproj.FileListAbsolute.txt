@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\InterfaceLab\App\bin\Debug\App.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\InterfaceLab\App\bin\Debug\App.exe
+c:\users\basedd\documents\visual studio 2015\Projects\InterfaceLab\App\bin\Debug\App.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\InterfaceLab\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\InterfaceLab\App\obj\Debug\App.exe
+c:\users\basedd\documents\visual studio 2015\Projects\InterfaceLab\App\obj\Debug\App.pdb

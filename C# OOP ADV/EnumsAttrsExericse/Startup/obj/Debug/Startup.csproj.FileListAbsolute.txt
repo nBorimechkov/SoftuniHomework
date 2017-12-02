@@ -1,0 +1,6 @@
+c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup\bin\Debug\Startup.exe.config
+c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup\bin\Debug\Startup.exe
+c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup\bin\Debug\Startup.pdb
+c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup\obj\Debug\Startup.csprojResolveAssemblyReference.cache
+c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup\obj\Debug\Startup.exe
+c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup\obj\Debug\Startup.pdb
