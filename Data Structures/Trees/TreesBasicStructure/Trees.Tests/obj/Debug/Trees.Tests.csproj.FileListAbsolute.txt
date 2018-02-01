@@ -1,0 +1,8 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees.Tests\bin\Debug\Trees.Tests.dll
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees.Tests\bin\Debug\Trees.Tests.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees.Tests\bin\Debug\Trees.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees.Tests\bin\Debug\Trees.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees.Tests\obj\Debug\Trees.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees.Tests\obj\Debug\Trees.Tests.dll
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees.Tests\obj\Debug\Trees.Tests.pdb

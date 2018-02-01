@@ -4,3 +4,6 @@ c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup
 c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup\obj\Debug\Startup.csprojResolveAssemblyReference.cache
 c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup\obj\Debug\Startup.exe
 c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsExericse\Startup\obj\Debug\Startup.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\EnumsAttrsExericse\Startup\bin\Debug\Startup.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\EnumsAttrsExericse\Startup\obj\Debug\Startup.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\EnumsAttrsExericse\Startup\obj\Debug\Startup.pdb

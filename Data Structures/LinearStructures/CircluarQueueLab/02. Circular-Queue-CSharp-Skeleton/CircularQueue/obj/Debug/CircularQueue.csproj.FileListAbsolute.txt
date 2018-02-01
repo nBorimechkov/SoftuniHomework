@@ -1,0 +1,5 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue\bin\Debug\CircularQueue.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue\obj\Debug\CircularQueue.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue\obj\Debug\CircularQueue.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue\obj\Debug\CircularQueue.pdb

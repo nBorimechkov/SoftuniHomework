@@ -4,3 +4,6 @@ C:\Users\Basedd\documents\visual studio 2015\Projects\IteratorsComparatorsExerci
 C:\Users\Basedd\documents\visual studio 2015\Projects\IteratorsComparatorsExercise\StartUp\bin\Debug\StartUp.pdb
 C:\Users\Basedd\documents\visual studio 2015\Projects\IteratorsComparatorsExercise\StartUp\obj\Debug\StartUp.exe
 C:\Users\Basedd\documents\visual studio 2015\Projects\IteratorsComparatorsExercise\StartUp\obj\Debug\StartUp.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\IteratorsComparatorsExercise\StartUp\bin\Debug\StartUp.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\IteratorsComparatorsExercise\StartUp\obj\Debug\StartUp.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\IteratorsComparatorsExercise\StartUp\obj\Debug\StartUp.pdb

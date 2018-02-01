@@ -1,0 +1,10 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P02.SortWords\bin\Debug\P02.SortWords.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P02.SortWords\bin\Debug\P02.SortWords.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P02.SortWords\bin\Debug\P02.SortWords.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P02.SortWords\obj\Debug\P02.SortWords.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P02.SortWords\obj\Debug\P02.SortWords.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P02.SortWords\bin\Debug\P02.SortWords.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P02.SortWords\bin\Debug\P02.SortWords.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P02.SortWords\bin\Debug\P02.SortWords.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P02.SortWords\obj\Debug\P02.SortWords.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P02.SortWords\obj\Debug\P02.SortWords.pdb

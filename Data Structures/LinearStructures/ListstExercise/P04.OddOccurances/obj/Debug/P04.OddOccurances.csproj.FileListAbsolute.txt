@@ -1,0 +1,11 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P04.OddOccurances\bin\Debug\P04.OddOccurances.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P04.OddOccurances\bin\Debug\P04.OddOccurances.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P04.OddOccurances\bin\Debug\P04.OddOccurances.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P04.OddOccurances\obj\Debug\P04.OddOccurances.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P04.OddOccurances\obj\Debug\P04.OddOccurances.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P04.OddOccurances\obj\Debug\P04.OddOccurances.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P04.OddOccurances\bin\Debug\P04.OddOccurances.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P04.OddOccurances\bin\Debug\P04.OddOccurances.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P04.OddOccurances\bin\Debug\P04.OddOccurances.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P04.OddOccurances\obj\Debug\P04.OddOccurances.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P04.OddOccurances\obj\Debug\P04.OddOccurances.pdb

@@ -1,1 +1,2 @@
 c:\users\basedd\documents\visual studio 2015\Projects\EnumsAttrsLab\StartUp\bin\Debug\StartUp.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\EnumsAttrsLab\StartUp\bin\Debug\StartUp.exe.config

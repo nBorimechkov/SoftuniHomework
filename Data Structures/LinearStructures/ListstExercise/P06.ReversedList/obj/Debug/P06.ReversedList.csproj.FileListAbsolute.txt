@@ -1,0 +1,12 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P06.ReversedList\bin\Debug\P06.ReversedList.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P06.ReversedList\bin\Debug\P06.ReversedList.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P06.ReversedList\bin\Debug\P06.ReversedList.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P06.ReversedList\obj\Debug\P06.ReversedList.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P06.ReversedList\obj\Debug\P06.ReversedList.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P06.ReversedList\obj\Debug\P06.ReversedList.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P06.ReversedList\bin\Debug\P06.ReversedList.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P06.ReversedList\bin\Debug\P06.ReversedList.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P06.ReversedList\bin\Debug\P06.ReversedList.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P06.ReversedList\obj\Debug\P06.ReversedList.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P06.ReversedList\obj\Debug\P06.ReversedList.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P06.ReversedList\obj\Debug\P06.ReversedList.csprojResolveAssemblyReference.cache

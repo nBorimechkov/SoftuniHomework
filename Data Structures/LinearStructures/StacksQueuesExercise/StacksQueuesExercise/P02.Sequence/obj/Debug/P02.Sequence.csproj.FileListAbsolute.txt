@@ -1,0 +1,6 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P02.Sequence\bin\Debug\P02.Sequence.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P02.Sequence\bin\Debug\P02.Sequence.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P02.Sequence\bin\Debug\P02.Sequence.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P02.Sequence\obj\Debug\P02.Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P02.Sequence\obj\Debug\P02.Sequence.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P02.Sequence\obj\Debug\P02.Sequence.pdb

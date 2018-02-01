@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2015\Projects\Reflection Exercise\01HarestingFields\bin\Debug\01HarestingFields.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2015\Projects\Reflection Exercise\01HarestingFields\bin\Debug\01HarestingFields.exe
+C:\Users\Nikolay\Documents\Visual Studio 2015\Projects\Reflection Exercise\01HarestingFields\bin\Debug\01HarestingFields.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2015\Projects\Reflection Exercise\01HarestingFields\obj\Debug\01HarestingFields.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2015\Projects\Reflection Exercise\01HarestingFields\obj\Debug\01HarestingFields.exe
+C:\Users\Nikolay\Documents\Visual Studio 2015\Projects\Reflection Exercise\01HarestingFields\obj\Debug\01HarestingFields.pdb

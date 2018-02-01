@@ -1,0 +1,11 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P07.DistanceInLabyrinth\bin\Debug\P07.DistanceInLabyrinth.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P07.DistanceInLabyrinth\bin\Debug\P07.DistanceInLabyrinth.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P07.DistanceInLabyrinth\bin\Debug\P07.DistanceInLabyrinth.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P07.DistanceInLabyrinth\obj\Debug\P07.DistanceInLabyrinth.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P07.DistanceInLabyrinth\obj\Debug\P07.DistanceInLabyrinth.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P07.DistanceInLabyrinth\obj\Debug\P07.DistanceInLabyrinth.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P07.DistanceInLabyrinth\bin\Debug\P07.DistanceInLabyrinth.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P07.DistanceInLabyrinth\bin\Debug\P07.DistanceInLabyrinth.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P07.DistanceInLabyrinth\bin\Debug\P07.DistanceInLabyrinth.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P07.DistanceInLabyrinth\obj\Debug\P07.DistanceInLabyrinth.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P07.DistanceInLabyrinth\obj\Debug\P07.DistanceInLabyrinth.pdb

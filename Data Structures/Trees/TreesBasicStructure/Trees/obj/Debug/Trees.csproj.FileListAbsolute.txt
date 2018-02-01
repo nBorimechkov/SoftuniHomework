@@ -1,0 +1,6 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees\bin\Debug\Trees.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees\bin\Debug\Trees.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees\bin\Debug\Trees.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees\obj\Debug\Trees.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\Trees\TreesBasicStructure\Trees\obj\Debug\Trees.pdb

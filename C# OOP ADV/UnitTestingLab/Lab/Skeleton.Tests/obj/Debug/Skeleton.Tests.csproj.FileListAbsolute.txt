@@ -1,0 +1,10 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\bin\Debug\Skeleton.Tests.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\obj\Debug\Skeleton.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\bin\Debug\Skeleton.Tests.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\bin\Debug\Skeleton.Tests.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\bin\Debug\Skeleton.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\bin\Debug\Skeleton.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\obj\Debug\Skeleton.Tests.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\UnitTestingLab\Lab\Skeleton.Tests\obj\Debug\Skeleton.Tests.pdb

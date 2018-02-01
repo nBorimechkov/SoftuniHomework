@@ -1,0 +1,8 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\CircluarQueue\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

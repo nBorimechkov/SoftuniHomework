@@ -1,0 +1,6 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P01.ReverseNumbersStack\bin\Debug\P01.ReverseNumbersStack.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P01.ReverseNumbersStack\bin\Debug\P01.ReverseNumbersStack.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P01.ReverseNumbersStack\bin\Debug\P01.ReverseNumbersStack.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P01.ReverseNumbersStack\obj\Debug\P01.ReverseNumbersStack.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P01.ReverseNumbersStack\obj\Debug\P01.ReverseNumbersStack.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\StacksQueuesExercise\StacksQueuesExercise\P01.ReverseNumbersStack\obj\Debug\P01.ReverseNumbersStack.pdb

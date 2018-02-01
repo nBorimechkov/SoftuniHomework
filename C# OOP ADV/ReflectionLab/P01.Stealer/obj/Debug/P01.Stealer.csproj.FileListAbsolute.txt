@@ -1,0 +1,6 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\ReflectionLab\P01.Stealer\bin\Debug\P01.Stealer.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\ReflectionLab\P01.Stealer\bin\Debug\P01.Stealer.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\ReflectionLab\P01.Stealer\bin\Debug\P01.Stealer.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\ReflectionLab\P01.Stealer\obj\Debug\P01.Stealer.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\ReflectionLab\P01.Stealer\obj\Debug\P01.Stealer.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\C# OOP ADV\ReflectionLab\P01.Stealer\obj\Debug\P01.Stealer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P01.SumAndAverage\bin\Debug\P01.SumAndAverage.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P01.SumAndAverage\bin\Debug\P01.SumAndAverage.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P01.SumAndAverage\bin\Debug\P01.SumAndAverage.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P01.SumAndAverage\obj\Debug\P01.SumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P01.SumAndAverage\obj\Debug\P01.SumAndAverage.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\LinearStructuresExercise\P01.SumAndAverage\obj\Debug\P01.SumAndAverage.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P01.SumAndAverage\bin\Debug\P01.SumAndAverage.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P01.SumAndAverage\obj\Debug\P01.SumAndAverage.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P01.SumAndAverage\obj\Debug\P01.SumAndAverage.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P01.SumAndAverage\bin\Debug\P01.SumAndAverage.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\LinearStructuresExercise\P01.SumAndAverage\bin\Debug\P01.SumAndAverage.pdb
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\ListstExercise\P01.SumAndAverage\bin\Debug\P01.SumAndAverage.exe.config
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\ListstExercise\P01.SumAndAverage\obj\Debug\P01.SumAndAverage.exe
+C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinearStructures\ListstExercise\P01.SumAndAverage\obj\Debug\P01.SumAndAverage.pdb
