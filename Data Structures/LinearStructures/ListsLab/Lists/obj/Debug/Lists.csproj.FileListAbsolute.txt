@@ -1,8 +1,0 @@
-C:\Users\Pesho\Documents\Visual Studio 2017\Projects\DS\Skeletons\DS01-Lists\Linear-Data-Structures\Lists\bin\Debug\Lists.exe.config
-C:\Users\Pesho\Desktop\Linear-Data-Structures\Lists\bin\Debug\Lists.exe.config
-C:\Users\Basedd\Documents\visual studio 2015\Projects\LinearDataSructuresLab\Lists\bin\Debug\Lists.exe.config
-C:\Users\Basedd\Documents\visual studio 2015\Projects\LinearDataSructuresLab\Lists\bin\Debug\Lists.exe
-C:\Users\Basedd\Documents\visual studio 2015\Projects\LinearDataSructuresLab\Lists\bin\Debug\Lists.pdb
-C:\Users\Basedd\Documents\visual studio 2015\Projects\LinearDataSructuresLab\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache
-C:\Users\Basedd\Documents\visual studio 2015\Projects\LinearDataSructuresLab\Lists\obj\Debug\Lists.exe
-C:\Users\Basedd\Documents\visual studio 2015\Projects\LinearDataSructuresLab\Lists\obj\Debug\Lists.pdb

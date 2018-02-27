@@ -1,8 +1,0 @@
-C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\Tests.LinkedList\bin\Debug\Tests.LinkedList.dll
-C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\Tests.LinkedList\bin\Debug\Tests.LinkedList.pdb
-C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\Tests.LinkedList\bin\Debug\LinkedList.exe
-C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\Tests.LinkedList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\Tests.LinkedList\bin\Debug\LinkedList.pdb
-C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\Tests.LinkedList\obj\Debug\Tests.LinkedList.csprojResolveAssemblyReference.cache
-C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\Tests.LinkedList\obj\Debug\Tests.LinkedList.dll
-C:\Users\Basedd\Desktop\SoftuniHomework\Data Structures\LinkedListAndQueues\Tests.LinkedList\obj\Debug\Tests.LinkedList.pdb
