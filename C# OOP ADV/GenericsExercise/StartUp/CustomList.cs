@@ -1,17 +1,18 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-public class CustomList<T> : ICustomList<T>
+public class CustomList<T> : ICustomList<T>, IEnumerable
     where T : IComparable<T>
 {
-    private readonly IList<T> elements;
+    private readonly IList<T> list;
 
     public IList<T> Elements
     {
         get
         {
-            return elements;
+            return list;
         }
     }
 
@@ -21,7 +22,7 @@ public class CustomList<T> : ICustomList<T>
 
     public CustomList(IEnumerable<T> collection)
     {
-        this.elements = new List<T>(collection);
+        this.list = new List<T>(collection);
     }
 
     public void Add(T element)
@@ -78,5 +79,10 @@ public class CustomList<T> : ICustomList<T>
         T current = this.list[index1];
         this.list[index1] = this.list[index2];
         this.list[index2] = current;
+    }
+
+    public IEnumerator GetEnumerator()
+    {
+        throw new NotImplementedException();
     }
 }

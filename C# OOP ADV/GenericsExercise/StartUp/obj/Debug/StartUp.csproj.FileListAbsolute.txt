@@ -4,3 +4,10 @@ c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\b
 c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
 c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\obj\Debug\StartUp.exe
 c:\users\basedd\documents\visual studio 2015\Projects\GenericsExercise\StartUp\obj\Debug\StartUp.pdb
+C:\Users\Nikolay\Desktop\SoftuniHomework\C# OOP ADV\GenericsExercise\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\SoftuniHomework\C# OOP ADV\GenericsExercise\StartUp\obj\Debug\StartUp.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\SoftuniHomework\C# OOP ADV\GenericsExercise\StartUp\obj\Debug\StartUp.exe
+C:\Users\Nikolay\Desktop\SoftuniHomework\C# OOP ADV\GenericsExercise\StartUp\obj\Debug\StartUp.pdb
+C:\Users\Nikolay\Desktop\SoftuniHomework\C# OOP ADV\GenericsExercise\StartUp\bin\Debug\StartUp.exe.config
+C:\Users\Nikolay\Desktop\SoftuniHomework\C# OOP ADV\GenericsExercise\StartUp\bin\Debug\StartUp.exe
+C:\Users\Nikolay\Desktop\SoftuniHomework\C# OOP ADV\GenericsExercise\StartUp\bin\Debug\StartUp.pdb
