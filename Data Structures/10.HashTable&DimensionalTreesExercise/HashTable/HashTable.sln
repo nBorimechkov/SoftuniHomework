@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{C19D5BAC-4484-49D0-8A73-6E0935454E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Phonebook", "P03.Phonebook\P03.Phonebook.csproj", "{5678CD2F-F33C-4418-A9EA-8F25EEFC5827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.OrderedSet", "P04.OrderedSet\P04.OrderedSet.csproj", "{5B86F54D-CB59-4485-AB6A-1A36F0A7C45D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C19D5BAC-4484-49D0-8A73-6E0935454E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19D5BAC-4484-49D0-8A73-6E0935454E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19D5BAC-4484-49D0-8A73-6E0935454E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19D5BAC-4484-49D0-8A73-6E0935454E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5678CD2F-F33C-4418-A9EA-8F25EEFC5827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5678CD2F-F33C-4418-A9EA-8F25EEFC5827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5678CD2F-F33C-4418-A9EA-8F25EEFC5827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5678CD2F-F33C-4418-A9EA-8F25EEFC5827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B86F54D-CB59-4485-AB6A-1A36F0A7C45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B86F54D-CB59-4485-AB6A-1A36F0A7C45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B86F54D-CB59-4485-AB6A-1A36F0A7C45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B86F54D-CB59-4485-AB6A-1A36F0A7C45D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
