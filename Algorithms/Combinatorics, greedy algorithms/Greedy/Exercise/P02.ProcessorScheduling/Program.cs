@@ -8,38 +8,52 @@ namespace P02.ProcessorScheduling
     {
         static void Main(string[] args)
         {
-            int tasks = int.Parse(Console.ReadLine().Split(new string[] { "Tasks: " }, StringSplitOptions.RemoveEmptyEntries)[0]);
+            int numberOfTasks = int.Parse(Console.ReadLine().Split(new string[] { "Tasks: " }, StringSplitOptions.RemoveEmptyEntries)[0]);
 
-            SortedDictionary<int, List<int>> list = new SortedDictionary<int, List<int>>();
+            Dictionary<int, List<int>> tasks = new Dictionary<int, List<int>>();
+            List<int> indices = new List<int>();
+            List<int> results = new List<int>();
+            int totalSum = 0;
 
-            for (int i = 0; i < tasks; i++)
+            for (int i = 0; i < numberOfTasks; i++)
             {
                 int[] currentItem = Console.ReadLine().Split(new string[] { " - " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
-                if (!list.ContainsKey(currentItem[1]))
+                if (!tasks.ContainsKey(currentItem[1]))
                 {
-                    list.Add(currentItem[1], new List<int>());
+                    tasks.Add(currentItem[1], new List<int>());
+                    tasks[currentItem[1]].Add(currentItem[0]);
+                    indices.Add(currentItem[0]);
                 }
                 else
                 {
-                    list[currentItem[1]].Add(currentItem[0]);
+                    tasks[currentItem[1]].Add(currentItem[0]);
+                    indices.Add(currentItem[0]);
                 }
             }
 
-           
 
-            Console.WriteLine();
-            foreach (var kvp in list.OrderBy(kvp => kvp.Value).ThenByDescending(kvp => kvp.Key))
+
+            var ordered = tasks.OrderBy(kvp => kvp.Key).ToList();
+
+            for (int i = 0; i < ordered.Count; i++)
             {
-                Console.WriteLine($"{kvp.Key} - {kvp.Value}");
+                int currentValue = ordered[i].Value.Max();
+                
+                if (i + 1 < ordered.Count && ordered[i + 1].Value.Max() > currentValue)
+                {
+                    currentValue = ordered[i + 1].Value.Max();
+                    i++;
+                }
+                totalSum += currentValue;
+                results.Add(indices.IndexOf(currentValue) + 1);
+            }
+            foreach (var item in results)
+            {
+                Console.WriteLine(item);
             }
 
             Console.ReadLine();
-        }
-
-        private static int Compare(KeyValuePair<int, int> x, KeyValuePair<int, int> y)
-        {
-            throw new NotImplementedException();
         }
     }
 }
