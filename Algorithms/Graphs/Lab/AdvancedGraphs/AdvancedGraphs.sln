@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.CyclicGraphs", "P03.CyclicGraphs\P03.CyclicGraphs.csproj", "{1ECD5D3F-4019-42B2-B67B-EE1F3C746E66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.ShortestPath", "P01.ShortestPath\P01.ShortestPath.csproj", "{0B84BECD-DC3F-488C-9CE3-A70411BA531E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECD5D3F-4019-42B2-B67B-EE1F3C746E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECD5D3F-4019-42B2-B67B-EE1F3C746E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECD5D3F-4019-42B2-B67B-EE1F3C746E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECD5D3F-4019-42B2-B67B-EE1F3C746E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B84BECD-DC3F-488C-9CE3-A70411BA531E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B84BECD-DC3F-488C-9CE3-A70411BA531E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B84BECD-DC3F-488C-9CE3-A70411BA531E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B84BECD-DC3F-488C-9CE3-A70411BA531E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {873962B2-B403-469C-B930-D0E593CAA00C}
+	EndGlobalSection
+EndGlobal
